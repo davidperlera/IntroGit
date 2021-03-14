@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\Desktop\\introGit\\example01\\example01.csproj": {}
+    "C:\\Users\\palenque\\Documents\\UCA PROGRA\\POO\\Intro Git\\IntroGit\\example01\\example01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\Desktop\\introGit\\example01\\example01.csproj": {
+    "C:\\Users\\palenque\\Documents\\UCA PROGRA\\POO\\Intro Git\\IntroGit\\example01\\example01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\Desktop\\introGit\\example01\\example01.csproj",
+        "projectUniqueName": "C:\\Users\\palenque\\Documents\\UCA PROGRA\\POO\\Intro Git\\IntroGit\\example01\\example01.csproj",
         "projectName": "example01",
-        "projectPath": "C:\\Users\\David\\Desktop\\introGit\\example01\\example01.csproj",
-        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\Desktop\\introGit\\example01\\obj\\",
+        "projectPath": "C:\\Users\\palenque\\Documents\\UCA PROGRA\\POO\\Intro Git\\IntroGit\\example01\\example01.csproj",
+        "packagesPath": "C:\\Users\\palenque\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\palenque\\Documents\\UCA PROGRA\\POO\\Intro Git\\IntroGit\\example01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\palenque\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
